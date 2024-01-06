@@ -9,7 +9,7 @@ Welcome to my showcase of 42 Network exams! Here, you'll find a collection of my
 - **Exam 03**: micro_paint, mini_paint. Creating matrix canvas with C
 - **Exam 04**: microshell. Rewriting bash from zero
 - **Exam 05**: Warlock. Exploring C++ classes and containers
-- **Exam 06**: miniserv
+- **Exam 06**: miniserv. Writing a webserver from scratch
 
 ## Why Explore This Repository?
 Each exam reflects my growth and proficiency in various programming languages, frameworks, and problem-solving approaches. Through these exams, I've honed my abilities in:
