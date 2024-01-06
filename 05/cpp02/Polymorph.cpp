@@ -5,5 +5,5 @@ Polymorph::~Polymorph() {}
 
 ASpell *Polymorph::clone() const
 {
-    return (new Polymorph());
+	return (new Polymorph());
 }

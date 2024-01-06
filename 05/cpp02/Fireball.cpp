@@ -5,5 +5,5 @@ Fireball::~Fireball() {}
 
 ASpell *Fireball::clone() const
 {
-    return (new Fireball());
+	return (new Fireball());
 }
